@@ -13,7 +13,7 @@ int main()
     {
         for (int j = 0; j < 3; j++)
         {
-            cout << "Entrer " << sum << " namber: ";
+            cout << "Enter " << sum << " namber: ";
             cin >> a[i][j];
 
             sum++;
